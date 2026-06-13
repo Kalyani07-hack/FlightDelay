@@ -39,7 +39,6 @@ Combines flight volume with average delay to measure how congested each origin a
 Weighted formula penalizing cancellations and diversions while rewarding on-time departures per route.
 
  Skills Demonstrated
-
 - End-to-End Data Pipeline (Python → SQL → Power BI)
 - Data Cleaning & Preprocessing (Python/Pandas)
 - SQL Indexing for Query Optimization
@@ -49,4 +48,3 @@ Weighted formula penalizing cancellations and diversions while rewarding on-time
 - Interactive Dashboard Design (Power BI)
 - Data Storytelling & Business Insight Generation
 
-ub.com/your-username)
