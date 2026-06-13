@@ -1,7 +1,7 @@
 # Flight Price & Operations Analysis — End-to-End Project
 ### Python → SQL → Power BI
 
-A complete end-to-end data analytics project analyzing **300,000+ Indian flight records** — from raw data cleaning in Python, structured querying 
+A complete end-to-end data analytics project analyzing **300,000+ US flight records** — from raw data cleaning in Python, structured querying 
 and KPI engineering in SQL, to an interactive Power BI dashboard.
 
 Project Overview
